@@ -1,5 +1,5 @@
 # NumberGuess
-Wanna play a game? In this project, we'll build a program that rolls a pair of dice and asks the user to guess the sum. If the user's guess is equal to the total value of the dice roll, the user wins! Otherwise, the computer wins. 
+Wanna play a game? In this project, I had build a program that rolls a pair of dice and asks the user to guess the sum. If the user's guess is equal to the total value of the dice roll, the user wins! Otherwise, the computer wins. 
 
     from random import randint
     from time import sleep
